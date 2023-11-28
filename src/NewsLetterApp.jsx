@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { Subscription } from './components/Subscription'
-import { Subscribed } from './components/Subscribed';
+import { Subscription } from '/src/components/Subscription'
+import { Subscribed } from '/src/components/Subscribed';
 
 export const NewsLetterApp = () => {
   const [subscribed,setsubscribed] = useState(false);
