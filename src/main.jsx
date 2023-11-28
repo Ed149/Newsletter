@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import './styles.css'
-import { NewsLetterApp } from './NewsLetterApp'
+import '/src/styles.css'
+import { NewsLetterApp } from '/src/NewsLetterApp'
 
 
 

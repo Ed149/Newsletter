@@ -1,4 +1,4 @@
-import iconSuccess from '../../src/assets/icon-success.svg'
+import iconSuccess from '/src/assets/icon-success.svg'
 
 export const Subscribed = ({handleSubscribed,email}) => {
   return (
